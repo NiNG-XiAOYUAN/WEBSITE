@@ -1,0 +1,39 @@
+<html> 
+   <head>
+       <link rel="shortcut icon" href="https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.ad7563c5.2jrSSrIwuBcr8Y4jrVj2vw?t=1603700718" type="image/x-icon" /> 
+      <title>凝凝志道的分享</title>   
+  </head>
+        <body bgcolor="#ffffff">
+           <h1>
+                   <font color="#000000">
+                                     <p>你好，世界。快来看看吧 </p> 
+                    </font>
+          </h1> 
+            <p align="center">嗨！  我是 <strong>凝凝</strong> 。科技改变世界 ...</p> 
+           <hr/>
+                 <img   height ="50px    
+                             width="50px"  <link  href="https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.ad7563c5.2jrSSrIwuBcr8Y4jrVj2vw?t=1603700718" >  />
+         </body>
+
+           <p> 获取方式为微信搜索关注公众号 <font color="red">"科迹纷享" </font>  后台回复名称（java ,python.. )等关键词即可获得 </p>
+<table border="1">
+    <tr>
+      <th>  编号  </th>
+      <th>  学习资源  </th>
+      <th>    获取地址   </th>
+     </tr>
+
+<tr>
+            <td>1</td>
+             <td>java学习</td>
+             <td>   <a  href= "https://pan.baidu.com/s/13A41OBvjG14ma3_1danwog">   点击获取验证码8929  </a>  </td>
+</tr>
+       <tr>
+            <td>2</td>
+             <td>python学习</td>
+              <td>  <a  href="链接：https://pan.baidu.com/s/1AHYWoti-oqAGuMQb0gCnjw">  点击获取         </a></td>
+        </tr>
+
+</table>
+                    
+</hthml>
